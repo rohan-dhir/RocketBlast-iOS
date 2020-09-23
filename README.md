@@ -1,6 +1,6 @@
 # Rocket Blast! (iOS)
 
-This is a mobile game that was released on the Apple App Store in November 2015. It was developed using SpriteBuilder and Xcode and was written using Objective-C.
+This is a mobile game that was released on the Apple App Store in September 2015. It was developed using SpriteBuilder and Xcode and was written using Objective-C.
 
 ## Overview
 
